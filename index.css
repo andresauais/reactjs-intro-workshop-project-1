@@ -1,0 +1,15 @@
+#root{
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card{
+  max-width: 333px;
+  margin: auto;
+}
+
+img{
+  max-width: 333px;
+}
